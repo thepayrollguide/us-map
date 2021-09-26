@@ -14,4 +14,4 @@ I thought I'd share the changes I made for my website: http://www.thepayrollguid
 
 -I also put in the hyperlink code for clicking on a state.
 
--the index.html allows you to test the file.
+-The index.html allows you to test the file.
