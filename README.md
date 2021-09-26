@@ -7,6 +7,11 @@ You can configure the styles of the states and labels for the default, per state
 I thought I'd share the changes I made for my website: http://www.thepayrollguide.com/State-Taxes
 
 -I only needed Puerto Rico, so I removed the other territories and updated the location of Puerto Rico is put it in a more accurate placement.
+
 -I changed the background color and the hover color.
+
 -As my wordpress did not allow the $ jquery function (it goes undefined), it took me a few hours to figure out how to put the execution into the javascript file.
+
+-I also put in the hyperlink code for clicking on a state.
+
 -the index.html allows you to test the file.
